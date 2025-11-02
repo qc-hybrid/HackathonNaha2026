@@ -4,7 +4,7 @@ plugins:
 
 # Site Settings
 locale                   : "en"
-baseurl: "/HackathonInOkinawa2026"
+baseurl: "/HackathonNaha2026"
 
 # Disable GitHub repository link
 github:
