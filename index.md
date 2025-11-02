@@ -1,5 +1,6 @@
 ---
-title:  Computational Physics Hackathon 2026
+title:  CompPhyHack 2026
+description: Computational Physics Hackathon in Naha, Okinawa 2026
 ---
 
 # About
