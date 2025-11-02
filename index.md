@@ -1,5 +1,5 @@
 ---
-title:  Hackathon in okinawa 2026
+title:  Computational Physics Hackathon 2026
 ---
 
 # About
