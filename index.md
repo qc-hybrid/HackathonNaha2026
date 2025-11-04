@@ -8,6 +8,9 @@ AI tools in software development and data science have already led to dramatic p
 However, adoption in computational physics is still in its early stages.
 
 This hackathon offers practical, hands-on training on **integrating AI tools into the workflow of computational physics, e.g., coding and data analysis**.
+Our focus will be the use of AI-powered development tools such as
+VS code Copilot, Cursor, Claude Code, Codex, etc.
+
 It is an ideal entry point for:
 - students and postdocs already engaged in research, and 
 - a re-skilling opportunity for senior researchers.
