@@ -4,7 +4,7 @@ plugins:
 
 # Site Settings
 locale                   : "en"
-baseurl: "/HackathonNaha2026"
+baseurl: "/CompPhysHack2026"
 
 # Disable GitHub repository link
 github:

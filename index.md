@@ -1,5 +1,5 @@
 ---
-title:  CompPhyHack 2026
+title:  CompPhysHack 2026
 description: Computational Physics Hackathon in Naha, Okinawa 2026
 ---
 
@@ -70,4 +70,4 @@ To be announced.
 
 # Contact
 
-[compphyhack2026@googlegroups.com](mailto:compphyhack2026@googlegroups.com)
+[compphyshack2026@googlegroups.com](mailto:compphyshack2026@googlegroups.com)
