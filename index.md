@@ -58,7 +58,7 @@ Free
 Will be open soon.
 
 # VISA Information
-[Application form](https://forms.office.com/Pages/DesignPageV2.aspx?subpage=design&FormId=aa8jBSUEjUqYJ-5yksXYIY2eEnV0hb9AhGLzK-_lOQtUQkRZM0tPUldOUVBSOE5IN1BEOUVYR1JHTC4u)
+[Application form](https://forms.office.com/r/rRDfCcq9P8)
 
 # Lecturers
 * [Satoshi Terasaki (AtelierArith)](https://terasakisatoshi.github.io)
