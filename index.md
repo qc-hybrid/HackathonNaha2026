@@ -55,11 +55,10 @@ Free
 **Important**: Please make sure that we have access to AI tools such as VS code Copilot, Cursor, Claude Code, Codex, etc. We recommend to use Cursor Pro if you are not already using them. We will extensively use Git and GitHub for collaboration.
 
 Registration will be open soon.
-<!--
+
 [Registration form](https://forms.gle/HxDuXjmVZK3z3a8j9)
 
 Deadline: Saturday, February 28, 2026
--->
 
 We may close the registration if the number of participants exceeds the capacity (approximately 40).
 
