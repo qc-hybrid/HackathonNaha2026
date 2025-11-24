@@ -20,6 +20,8 @@ Participants are expected to have prior experience in coding and numerical simul
 # Dates 
 March 6 - 8, 2026
 
+A related workshop will be held on March 2 - 5 (just before the hackathon) in Naha, Okinawa. See [here](https://qc-hybrid.github.io/CompQMB2026/) for more details.
+
 # Program
 
 | Time | Fri, 6th | Sat, 7th | Sun, 8th |
